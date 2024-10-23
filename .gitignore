@@ -1,0 +1,4 @@
+*.pdf
+images/*
+vendor
+.DS_Store
